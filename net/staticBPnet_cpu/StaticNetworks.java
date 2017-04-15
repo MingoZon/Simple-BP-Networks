@@ -4,7 +4,7 @@
  * 最后一次更改：2017.4.14
  * 最后一次更改内容：无
  */
-package saie.neuralnetworks.net.staticBPnet_cpu;
+package net.staticBPnet_cpu;
 
 import saie.neuralnetworks.net.MathUsed;
 
