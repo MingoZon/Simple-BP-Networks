@@ -5,7 +5,7 @@
  * 最后一次更改：2017.4.12
  * 更改内容：无
  */
-package saie.neuralnetworks.net.staticBPnet_cpu;
+package net.staticBPnet_cpu;
 import java.util.Random;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.Future;
