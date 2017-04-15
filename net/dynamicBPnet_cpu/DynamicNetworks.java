@@ -4,7 +4,7 @@
  * 最后一次更改：2017.4.13
  * 最后一次更改内容：无
  */
-package saie.neuralnetworks.net.dynamicBPnet_cpu;
+package net.dynamicBPnet_cpu;
 
 import java.util.ArrayList;
 import java.util.Random;
